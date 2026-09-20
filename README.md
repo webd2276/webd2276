@@ -14,7 +14,6 @@
 
 <br><br>
 
-<img src="assets/status-badge.svg" alt="Available for new projects" width="300">
 
 <h1>Hi, I'm Hamza Qadeer</h1>
 
@@ -23,9 +22,9 @@
 <p>I build high-performance WordPress websites, modern web applications,<br>
 and intelligent automation systems that help businesses work smarter.</p>
 
-<a href="https://hamzaqadeer.netlify.app"><img src="assets/btn-portfolio.svg" alt="View my portfolio" width="200"></a>
-<a href="https://github.com/webd2276"><img src="assets/btn-github.svg" alt="GitHub profile" width="200"></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="assets/btn-contact.svg" alt="Contact me" width="200"></a>
+<a href="https://hamzaqadeer.netlify.app"></a>
+<a href="https://github.com/webd2276"></a>
+<a href="mailto:webd2276@gmail.com"></a>
 
 <br><br>
 
