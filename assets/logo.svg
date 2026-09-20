@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Waves by Hamza Qadeer</title>
+  <desc id="desc">A dark green Digital Waves wordmark with a subtle wave motif.</desc>
+  <rect width="1200" height="260" rx="24" fill="#050705"/>
+  <path d="M54 164c70-70 126-70 196 0s126 70 196 0 126-70 196 0" fill="none" stroke="#00ff66" stroke-width="5" opacity=".95"/>
+  <path d="M54 181c70-70 126-70 196 0s126 70 196 0 126-70 196 0" fill="none" stroke="#7cffaa" stroke-width="2" opacity=".55"/>
+  <text x="500" y="106" fill="#f2f7f2" font-family="Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="8">DIGITAL</text>
+  <text x="500" y="157" fill="#00ff66" font-family="Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="8">WAVES</text>
+  <text x="504" y="194" fill="#a5b0a6" font-family="monospace" font-size="14" letter-spacing="2">WEB • AI • AUTOMATION</text>
+</svg>

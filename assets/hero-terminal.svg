@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Waves developer terminal</title>
+  <desc id="desc">Terminal card showing Hamza Qadeer's role and focus areas.</desc>
+  <rect width="1200" height="620" rx="18" fill="#0d120d" stroke="#1a251c" stroke-width="2"/>
+  <rect width="1200" height="54" rx="18" fill="#111711"/>
+  <circle cx="28" cy="27" r="6" fill="#ff6b6b"/><circle cx="50" cy="27" r="6" fill="#ffd166"/><circle cx="72" cy="27" r="6" fill="#00ff66"/>
+  <text x="104" y="33" fill="#667166" font-family="monospace" font-size="16">digital-waves / system-terminal</text>
+  <g font-family="monospace" font-size="21">
+    <text x="42" y="112" fill="#00ff66">hamza@digital-waves:~$</text><text x="350" y="112" fill="#f2f7f2">whoami</text>
+    <text x="42" y="153" fill="#7cffaa">&gt; Hamza Qadeer</text>
+    <text x="42" y="213" fill="#00ff66">hamza@digital-waves:~$</text><text x="350" y="213" fill="#f2f7f2">role</text>
+    <text x="42" y="254" fill="#a5b0a6">&gt; WordPress Developer</text><text x="42" y="288" fill="#a5b0a6">&gt; AI Automation Specialist</text>
+    <text x="42" y="348" fill="#00ff66">hamza@digital-waves:~$</text><text x="350" y="348" fill="#f2f7f2">focus</text>
+    <text x="42" y="389" fill="#a5b0a6">&gt; WordPress / WooCommerce / React</text><text x="42" y="423" fill="#a5b0a6">&gt; n8n / AI agents / API systems</text>
+    <text x="42" y="483" fill="#00ff66">hamza@digital-waves:~$</text><text x="350" y="483" fill="#f2f7f2">status</text>
+    <circle cx="58" cy="530" r="7" fill="#00ff66"/><text x="82" y="537" fill="#7cffaa">AVAILABLE FOR NEW PROJECTS</text>
+  </g>
+</svg>
