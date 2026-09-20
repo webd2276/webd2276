@@ -251,8 +251,8 @@ End-to-end automation that generates and deploys real estate marketing content a
 <p>Have a website, automation system, AI agent or digital product in mind?<br>
 Let's turn the idea into something real.</p>
 
-<a href="mailto:YOUR_EMAIL_HERE?subject=New%20project"><img src="assets/btn-start.svg" alt="Start a project by email" width="200"></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="assets/btn-email.svg" alt="Email me" width="200"></a>
+<a href="mailto:webd2276@gmail.com?subject=New%20project"><img src="assets/btn-start.svg" alt="Start a project by email" width="200"></a>
+<a href="mailto:webd2276@gmail.com"><img src="assets/btn-email.svg" alt="Email me" width="200"></a>
 <a href="https://hamzaqadeer.netlify.app"><img src="assets/btn-portfolio.svg" alt="View portfolio" width="200"></a>
 
 <br><br>
