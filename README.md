@@ -128,7 +128,7 @@ Technical SEO
 
 ## Featured Projects
 
-<a href="https://fourteenstartravels.ae"><img src="assets/project-card-01.svg" alt="Fourteen Star Travel, a WordPress travel website" width="100%"></a>
+<a href="https://fourteenstartravels.ae"><img src="https://hamzaqadeer.netlify.app/assets/f-HJpC8hxf-HJpC8hxf.png" alt="Fourteen Star Travel, a WordPress travel website" width="100%"></a>
 
 A professional travel and tourism website built around structured service presentation, responsive layouts and scalable WordPress content.
 
@@ -136,7 +136,7 @@ A professional travel and tourism website built around structured service presen
 
 <br>
 
-<a href="https://laforge.com.pk"><img src="assets/project-card-02.svg" alt="La Forge, a perfume WooCommerce website" width="100%"></a>
+<a href="https://laforge.com.pk"><img src="https://hamzaqadeer.netlify.app/assets/l-BnJuUl_7-BnJuUl_7.png" alt="La Forge, a perfume WooCommerce website" width="100%"></a>
 
 A premium perfume e-commerce experience focused on product presentation, a responsive shopping experience and WooCommerce functionality.
 
